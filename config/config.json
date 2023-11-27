@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "mvyshnevsk",
+    "password": "mvyshnevsk",
+    "database": "usof",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "mvyshnevsk",
+    "password": "mvyshnevsk",
+    "database": "usof",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "mvyshnevsk",
+    "password": "mvyshnevsk",
+    "database": "usof",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
